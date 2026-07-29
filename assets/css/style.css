@@ -1,6 +1,7 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color:#00108a;
+    background-image: url(../images/05da5c98ea8accb431a91934ae429d7c.jpg);
+    background-size: cover;
     color: #ffffff;
     height: 100vh;
     display: flex;
@@ -8,4 +9,17 @@ body {
     justify-content: left;
     align-items: left;
     gap: 24px;
+}
+
+#titulo{
+    background-color:#000000;
+    margin: 0px;
+    max-width: 1780px;
+    padding: 10px;
+    border-radius: 16px;
+    text-align: center;
+}
+
+#blocos{
+    background-color: #000000;
 }
